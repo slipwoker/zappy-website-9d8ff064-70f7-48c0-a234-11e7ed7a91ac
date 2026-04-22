@@ -1,0 +1,47 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+סובל מדום נשימה בשינה או נחירות מתישות? קליניקת לילה רגוע מציעה פתרונות רפואיים מתקדמים שישנו את חייך. קבל שינה עמוקה ובריאה — כבר הלילה.
+
+### טיפולים
+https://example.com/treatments
+גלה את מגוון הטיפולים המתקדמים של קליניקת לילה רגוע לדום נשימה ונחירות. פרוטוקולים רפואיים מוכחים, מותאמים אישית לכל מטופל. הפסק לסבול — התחל לישון.
+
+### אודות
+https://example.com/about
+קליניקת לילה רגוע הוקמה מתוך שליחות אמיתית לשפר את איכות חייהם של הסובלים מהפרעות שינה. היכנס וגלה מי עומד מאחורי הטיפול המקצועי והאנושי שלנו.
+
+### צור קשר
+https://example.com/contact
+מוכן לסיים את הלילות הקשים? צור קשר עם קליניקת לילה רגוע עוד היום לקביעת ייעוץ ראשוני. הצוות המקצועי שלנו ממתין לך עם פתרון לנחירות ולדום נשימה בשינה.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
