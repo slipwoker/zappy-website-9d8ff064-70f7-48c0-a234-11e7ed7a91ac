@@ -1,47 +1,57 @@
-# Business — Generative Engine Optimization Map
+# לילה רגוע — Generative Engine Optimization Map
+
+> A healthcare clinic called 'Lyla Ragua' (Peaceful Night) specializing in sleep apnea and snoring treatment. The brand name evokes tranquility and restful sleep, suggesting a calming and professional medical environment focused on improving sleep quality and overall wellbeing for patients suffering from sleep disorders.
 
 ---
 
 ## Pages
 
 ### בית
-https://example.com
+https://layla-ragua.zappy5.app
 סובל מדום נשימה בשינה או נחירות מתישות? קליניקת לילה רגוע מציעה פתרונות רפואיים מתקדמים שישנו את חייך. קבל שינה עמוקה ובריאה — כבר הלילה.
 
 ### טיפולים
-https://example.com/treatments
+https://layla-ragua.zappy5.app/treatments
 גלה את מגוון הטיפולים המתקדמים של קליניקת לילה רגוע לדום נשימה ונחירות. פרוטוקולים רפואיים מוכחים, מותאמים אישית לכל מטופל. הפסק לסבול — התחל לישון.
 
 ### אודות
-https://example.com/about
+https://layla-ragua.zappy5.app/about
 קליניקת לילה רגוע הוקמה מתוך שליחות אמיתית לשפר את איכות חייהם של הסובלים מהפרעות שינה. היכנס וגלה מי עומד מאחורי הטיפול המקצועי והאנושי שלנו.
 
 ### צור קשר
-https://example.com/contact
+https://layla-ragua.zappy5.app/contact
 מוכן לסיים את הלילות הקשים? צור קשר עם קליניקת לילה רגוע עוד היום לקביעת ייעוץ ראשוני. הצוות המקצועי שלנו ממתין לך עם פתרון לנחירות ולדום נשימה בשינה.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://layla-ragua.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://layla-ragua.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://layla-ragua.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Business
+## About לילה רגוע
+A healthcare clinic called 'Lyla Ragua' (Peaceful Night) specializing in sleep apnea and snoring treatment. The brand name evokes tranquility and restful sleep, suggesting a calming and professional medical environment focused on improving sleep quality and overall wellbeing for patients suffering from sleep disorders.
+
+## Target Audience
+אנשים הסובלים מדום נשימה בשינה ונחירות
+
+## Industry
+בריאות ורפואה
+
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://example.com/sitemap.xml
-- **Robots.txt**: https://example.com/robots.txt
+- **Sitemap**: https://layla-ragua.zappy5.app/sitemap.xml
+- **Robots.txt**: https://layla-ragua.zappy5.app/robots.txt
